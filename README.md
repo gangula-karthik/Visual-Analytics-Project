@@ -1,6 +1,5 @@
 # Visual-Analytics-Project
 
-![image](https://user-images.githubusercontent.com/56480632/219986194-15123ecd-340e-47d7-89f1-cb9fffc98cf3.png)
 
 
 The visual analytics project that I have done at NYP during year 1 semester 2
