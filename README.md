@@ -9,7 +9,7 @@ This project aims to provide a data visualization report that verifies or dispro
 
 
 ## Team members
-1. Darren 
-2. Karthik
-3. Gabriel
-4. Victor
+1. Darren (Economic Environment)
+2. Karthik (Housing)
+3. Gabriel (Transportation)
+4. Victor (Education)
