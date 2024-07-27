@@ -18,3 +18,9 @@ Utilizing a data-driven approach, our team produced visualizations for each fact
 
 ## 🔍 Key Findings
 From our analysis, it is evident that Singapore has commendable transportation and education systems that are affordable and easily accessible to many individuals. However, the housing and economic environment could be further improved, as not everyone is financially stable enough to protect themselves against rising prices in these areas, particularly recent college graduates who are starting their careers. Nonetheless, we acknowledge that the government is taking proactive measures by providing more grants and subsidies to its citizens.
+
+## 👥 Contributors
+- Karthik - Worked on Housing
+- Darren - Worked on Public Amenities
+- Gabriel - Worked on Transportation
+- Victor - Worked on Education
