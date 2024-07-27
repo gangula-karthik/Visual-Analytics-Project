@@ -1,4 +1,0 @@
-Your access key is : 0b105df1-ce5e-483c-b872-6c0ce2dde62d
-
-
-{"Status":"Success","Message":"","Result":"Zt3c3heeFT0cKPeXp-dK@FWzdG4F5atd8e0hcW5y6wUeKke1Y8CFZC634X417-U6t3ZZsHPre2gGKddW43er4yFd8bPeU2R48589"}%

@@ -1,15 +1,15 @@
-# Visual-Analytics-Project
+# 📊 Visual Analytics Project using Power BI
 
+Welcome to the Visual Analytics Project repository! This project, developed as part of a school assignment, leverages Power BI to provide insightful visualizations and analyses on various datasets related to housing, transportation, and public amenities in Singapore.
 
+## 🎯 Aim
+The aim of our study is to evaluate Singapore as a favorable location for recent university graduates aged 21 to 34, with limited work experience. This demographic is crucial as they represent the upcoming generation of professionals entering the workforce and can provide valuable insights into the job market, career prospects, and overall quality of life in Singapore.
 
-The visual analytics project that I have done at NYP during year 1 semester 2
+## 🛠️ Methodology
+We adopted a structured approach by breaking down the complex problem into smaller, manageable factors - Economic Environment, Housing, Transportation, and Education. This methodology enabled us to deeply analyze and comprehend the impact of each factor on the overall state of Singapore and the implications for our target audience. Through these insights, we identified the strengths, weaknesses, and opportunities within each area.
 
+## 📊 Data-Driven Approach
+Utilizing a data-driven approach, our team produced visualizations for each factor to provide a holistic view of Singapore as a location for recent university graduates with limited work experience. This comprehensive evaluation has helped us gain a better understanding of the opportunities and challenges available in Singapore.
 
-This project aims to provide a data visualization report that verifies or disproves the hypothesis that Singapore is a good place to live and work in, based on the various factors that contribute to the quality of life. The team will gather requirements from a chosen key stakeholder to understand their needs and objectives for the report. Using Microsoft Power BI, the team will then provide a data-driven solution by applying ETL techniques, visualization techniques, and statistical modeling techniques.
-
-
-## Team members
-1. Darren (Economic Environment)
-2. Karthik (Housing)
-3. Gabriel (Transportation)
-4. Victor (Education)
+## 🔍 Key Findings
+From our analysis, it is evident that Singapore has commendable transportation and education systems that are affordable and easily accessible to many individuals. However, the housing and economic environment could be further improved, as not everyone is financially stable enough to protect themselves against rising prices in these areas, particularly recent college graduates who are starting their careers. Nonetheless, we acknowledge that the government is taking proactive measures by providing more grants and subsidies to its citizens.
