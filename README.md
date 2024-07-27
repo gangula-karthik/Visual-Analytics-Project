@@ -1,6 +1,9 @@
 # 📊 Visual Analytics Project using Power BI
 
-<img src="https://github.com/user-attachments/assets/43936043-8b2e-4cd6-85e8-d4e9e9137fce" alt="Centered Image" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/43936043-8b2e-4cd6-85e8-d4e9e9137fce"  width="540" height="300">
+</p>
 
 Welcome to the Visual Analytics Project repository! This project, developed as part of a school assignment, leverages Power BI to provide insightful visualizations and analyses on various datasets related to housing, transportation, and public amenities in Singapore.
 
